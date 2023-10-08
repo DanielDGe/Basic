@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node hello-world/hola-mundo.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "daniel",
+  "license": "ISC"
+}
